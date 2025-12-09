@@ -25,21 +25,39 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home: index.md
+  - Home:
+    - Overview: index.md
+    - Installation: Installation.md
   - Debdeb System:
     - System Overview: Debdeb System.md
     - Debdeb Celestial Bodies:
-      - Charr: planets/Charr.md
-      - Ovin: planets/Ovin.md
-      - Gurdamma: planets/Gurdamma.md
-      - Donk: planets/Donk.md
-      - Kevba's Anomaly: planets/Kevba.md
-      - Gup: planets/Gup.md
-      - Lapat: planets/Lapat.md
-      - Axod: planets/Axod.md
-      - Umod: planets/Umod.md
-      - Dorau: planets/Dorau.md
-      - Bis: planets/Bis.md
+      - Charr: debdeb/Charr.md
+      - Ovin: debdeb/Ovin.md
+      - Gurdamma: debdeb/Gurdamma.md
+      - Donk: debdeb/Donk.md
+      - Kevba's Anomaly: debdeb/Kevba.md
+      - Gup: debdeb/Gup.md
+      - Lapat: debdeb/Lapat.md
+      - Axod: debdeb/Axod.md
+      - Umod: debdeb/Umod.md
+      - Dorau: debdeb/Dorau.md
+      - Bis: debdeb/Bis.md
+  - Tuun System:
+    - System Overview: Tuun System.md
+    - Tuun Celestial Bodies:
+      - Hurr: tuun/Hurr.md
+      - Rask & Rusk: tuun/Rask-Rusk.md
+      - Rem: tuun/Rem.md
+      - Flot: tuun/Flot.md
+      - Verda: tuun/Verda.md
+      - Puf: tuun/Puf.md
+      - Glumo: tuun/Glumo.md
+      - Noj: tuun/Noj.md
+      - Merbel: tuun/Merbel.md
+      - Skut: tuun/Skut.md
+  - Qeg System:
+    - System Overview: Qeg System.md
+  - Changelog: Changelog.md
 
 plugins:
   - search
