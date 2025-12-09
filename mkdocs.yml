@@ -9,7 +9,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.sections
+    - navigation.indexes
     - toc.follow
     - search.highlight
     - search.suggest
@@ -26,6 +26,20 @@ theme:
 
 nav:
   - Home: index.md
+  - Debdeb System:
+    - System Overview: Debdeb System.md
+    - Debdeb Celestial Bodies:
+      - Charr: planets/Charr.md
+      - Ovin: planets/Ovin.md
+      - Gurdamma: planets/Gurdamma.md
+      - Donk: planets/Donk.md
+      - Kevba's Anomaly: planets/Kevba.md
+      - Gup: planets/Gup.md
+      - Lapat: planets/Lapat.md
+      - Axod: planets/Axod.md
+      - Umod: planets/Umod.md
+      - Dorau: planets/Dorau.md
+      - Bis: planets/Bis.md
 
 plugins:
   - search

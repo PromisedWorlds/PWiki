@@ -1,14 +1,21 @@
-# KSA Modding Wiki (Unofficial)
+# Promised Worlds Wiki
 
-This repository contains the source for an **unofficial, community-driven modding wiki** for _Kitten Space Agency (KSA)_.
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Last commit](https://img.shields.io/github/last-commit/PromisedWorlds/PromisedWorlds/main.svg)
 
-The site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme, and is intended to be hosted on **GitHub Pages**.
+This repository contains the official documentation and wiki for **Promised Worlds**, a faithful revival of the solar systems Intercept Games planned to release for KSP 2.
 
-## Goals
+The wiki is built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme, and is hosted on **GitHub Pages**.
 
-- Provide **beginner-friendly tutorials** for creating and installing mods.
-- Offer **deep technical documentation** for experienced modders and tool authors.
-- Become the **main reference** for KSA modding, including internals and advanced topics where appropriate.
+## About Promised Worlds
+
+Promised Worlds brings the planned KSP 2 star systems to Kerbal Space Program 1. Our team of veteran KSP 1 modders is working around the globe to recreate these experiences with:
+
+- **Debdeb System** - Fully implemented
+- **Tuun System** - In early development
+- **Qeg System** - Being conceptualized (uncertain feature)
+
+All content is designed in-house without using any KSP 2 assets. Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries.
 
 ## Getting started (local)
 
@@ -29,18 +36,20 @@ The site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for M
 
 ## Deploying to GitHub Pages
 
-A GitHub Actions workflow is included under `.github/workflows/deploy-docs.yml`.  
-Once configured with the correct permissions, it will build and deploy the site to the `gh-pages` branch whenever you push to `main`.
+The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
 ## Contributing
 
 Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines on how to propose changes or new pages.
 
-This is a curated project: contributions are welcome via pull requests and will be reviewed before merging.
+Contributions are welcome via pull requests and will be reviewed before merging.
 
-## Disclaimer
+## Community
 
-This project is **not** affiliated with or endorsed by the developers or publishers of Kitten Space Agency.
+Join our [Discord server](https://discord.gg/cuY2Hx2emM) to stay up to date with development progress or contribute to the project!
 
-All trademarks and copyrights are the property of their respective owners.
+## License
 
+This wiki follows the same license as the Promised Worlds mod.
+
+See the full license here: https://github.com/PromisedWorlds/PromisedWorlds/blob/main/LICENSE.md
