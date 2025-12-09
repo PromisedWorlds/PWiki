@@ -1,0 +1,40 @@
+site_name: Promised Worlds Wiki 
+site_description: Offical Promised Worlds Wiki 
+site_url: https://promisedworlds.github.io/PWiki
+repo_url: https://github.com/PromisedWorlds/PWiki
+repo_name: PWiki
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - codehilite
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
