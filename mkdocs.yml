@@ -25,9 +25,8 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home:
-    - Overview: index.md
-    - Installation: Installation.md
+  - Home: index.md
+  - Installation: Installation.md
   - Debdeb System:
     - System Overview: Debdeb System.md
     - Debdeb Celestial Bodies:

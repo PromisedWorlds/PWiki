@@ -43,5 +43,5 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 ## Recommended Mods:
 These mods are recommended, may require other dependencies, and are not required, however they upgrade the visual experience for Promised Worlds:
 
-- [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) (works well with [Deffered](https://github.com/LGhassen/Deferred/releases)) (This adds high-quality close-up terrain and ground scatters if you have Promised Worlds installed)
-- [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553)(This adds raymarching volumetric clouds to the Kerbol system, and overhauls all EVE/Scatterer Public releases. Adds cloud support to all Promised Worlds systems)
+- [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) (Works well with [Deffered](https://github.com/LGhassen/Deferred/releases)) (This adds high-quality close-up terrain and ground scatters if you have Promised Worlds installed)
+- [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553) (This adds raymarching volumetric clouds to the Kerbol system, and overhauls all EVE/Scatterer Public releases. Adds cloud support to all Promised Worlds systems)
