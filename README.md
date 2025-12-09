@@ -17,7 +17,7 @@ Promised Worlds brings the planned KSP 2 star systems to Kerbal Space Program 1.
 
 All content is designed in-house without using any KSP 2 assets. Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries.
 
-## Getting started (local)
+*The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*
 
 1. Install Python 3 (if you don't have it already).
 2. Install dependencies:
