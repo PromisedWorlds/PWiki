@@ -1,46 +1,23 @@
-# KSA Modding Wiki (Unofficial)
+![](https://i.imgur.com/74Iovs6.jpeg) 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKSP-CKAN%2FCKAN-meta%2Frefs%2Fheads%2Fmaster%2Fdownload_counts.json&query=PromisedWorldsCore&label=Downloads)
+![Last commit](https://img.shields.io/github/last-commit/PromisedWorlds/PromisedWorlds/main.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/PromisedWorlds/PromisedWorlds)
+![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
+# Promised Worlds
+**Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
 
-This repository contains the source for an **unofficial, community-driven modding wiki** for _Kitten Space Agency (KSA)_.
+So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented in development builds. The Qeg System is being conceptualized (an uncertain feature).
 
-The site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme, and is intended to be hosted on **GitHub Pages**.
+All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
+ 
+Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
-## Goals
+Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add. 
 
-- Provide **beginner-friendly tutorials** for creating and installing mods.
-- Offer **deep technical documentation** for experienced modders and tool authors.
-- Become the **main reference** for KSA modding, including internals and advanced topics where appropriate.
+If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
-## Getting started (local)
+*The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*
 
-1. Install Python 3 (if you don't have it already).
-2. Install dependencies:
-
-   ```bash
-   pip install mkdocs mkdocs-material
-   ```
-
-3. Run the local dev server:
-
-   ```bash
-   mkdocs serve
-   ```
-
-4. Open the URL shown in the terminal (usually `http://127.0.0.1:8000/`).
-
-## Deploying to GitHub Pages
-
-A GitHub Actions workflow is included under `.github/workflows/deploy-docs.yml`.  
-Once configured with the correct permissions, it will build and deploy the site to the `gh-pages` branch whenever you push to `main`.
-
-## Contributing
-
-Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines on how to propose changes or new pages.
-
-This is a curated project: contributions are welcome via pull requests and will be reviewed before merging.
-
-## Disclaimer
-
-This project is **not** affiliated with or endorsed by the developers or publishers of Kitten Space Agency.
-
-All trademarks and copyrights are the property of their respective owners.
+*The Wiki of PW is currently for PW version 2.0.0 (Not released.), If you still see this message upon the release of 2.0.0, please notify the Dev team, or report an issue*
 
