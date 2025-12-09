@@ -1,6 +1,6 @@
 # Promised Worlds Wiki
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green)
 ![Last commit](https://img.shields.io/github/last-commit/PromisedWorlds/PromisedWorlds/main.svg)
 
 This repository contains the official documentation and wiki for **Promised Worlds**, a faithful revival of the solar systems Intercept Games planned to release for KSP 2.
