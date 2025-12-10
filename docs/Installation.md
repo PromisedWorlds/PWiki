@@ -32,7 +32,7 @@
 ## Options
 In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
 
-- Skybox (Requires [Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1))(Release 2.0.0 and above)
+- Skybox (Requires [Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1)) (Release 2.0.0 and above)
 - Wormholes (Requires [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) for shaders)
 - DistanceFactor (How far from Kerbol the systems will be)
 - Rescale (Resize the systems, requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
