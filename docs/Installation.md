@@ -32,7 +32,7 @@
 ## Options
 In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
 
-- Skybox (Requires [Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1))(Release 2.0.0 and above)
+- Skybox (Requires [Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1)) (Release 2.0.0 and above)
 - Wormholes (Requires [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) for shaders)
 - DistanceFactor (How far from Kerbol the systems will be)
 - Rescale (Resize the systems, requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
@@ -45,3 +45,4 @@ These mods are recommended, may require other dependencies, and are not required
 
 - [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) (Works well with [Deffered](https://github.com/LGhassen/Deferred/releases)) (This adds high-quality close-up terrain and ground scatters if you have Promised Worlds installed)
 - [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553) (This adds raymarching volumetric clouds to the Kerbol system, and overhauls all EVE/Scatterer Public releases. Adds cloud support to all Promised Worlds systems)
+
