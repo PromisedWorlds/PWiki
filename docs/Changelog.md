@@ -2,21 +2,73 @@
 
 Go to <https://github.com/PromisedWorlds/PromisedWorlds> to see the older changelogs for older PromisedWorlds versions
 
-## v1.0.2:
-- (bugfix) Restored wormhole to the Debdeb system, if enabled. The Kerbol end is now around Dres. Finally, a purpose!
-- (bugfix) Made Charr's Hot Craters and Molten Craters dangerous as designed
-- (bugfix) Stopped a ModuleManager warning when loading the game
-- (bugfix) Change a duplicate Dorau entry to Bis in TiltEm config
-- (enhancement) Enabled the ability to toggle realistic star size
-- (enhancement) Removed duplicate ScanSat.cfg and DistanceScale.cfg in Debdeb - Core has this config, so another is unnecessary.
-- (technical) Ensure all bodies are loaded with FOR[PromisedWorlds]
-- (technical) Ensure all Rational Resources configs have NEEDS[PromisedWorlds]
-- (technical) Move all Debdeb planet names, descriptions, and biome names to localization
-- (technical) Update the version of the bundled VertexColorMapEmissive to 1.1.0
-- (documentation) Update README with information on CKAN and SpaceDock downloads
-  
-## v1.0.3:
-- (MAJOR bugfix) Fixed null refs which Gurdamma was causing because it couldn't find the VertexColorMap textures
+## v1.2.1
+BUGFIXES:
+
+- Shrink the SOI of wormholes to make sure they don't steal ships from Dres orbit. 
+
+## v1.2.0
+NEW FEATURES / IMPROVEMENTS:
+
+- Support for Blackrack's V5 volumetric clouds on most planets. V4 clouds are no longer supported.
+- Added Tuun and its first three planets - Puf, Rask, and Rusk.
+- Enhanced Umod's terrain and normal map
+- Updated our title slide to reflect our new developers!
+
+BUGFIXES:
+
+- Fixed an error causing parts of Donk to turn red
+- Fix a missing science def for Ovin's Valley of Despair
+
+TECHNICAL IMPROVEMENTS:
+
+- Move loading tips to localization so those can be translated.
+- A few utility textures for EVE clouds have been added to Core
+
+TRANSLATIONS:
+
+Promised Worlds now has some translations for several languages, thanks to our hardworking translator teams!
+- Added translations for body descriptions and biome names for Spanish and German
+- Added translations for body descriptions for Russian
+
+## v1.1.4
+BUGFIXES:
+
+- Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
+
+## v1.1.3
+NEW FEATURES / IMPROVEMENTS:
+
+- Bis now has its atmosphere - Arekusu can finally rest.
+- A new setting allows you to re-add stock loading screens if you want. Change RemoveStockScreens to False in PromisedWorldsSettings.cfg to have both stock screens and Promised Worlds'.
+
+BUGFIXES:
+
+- Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
+- Dorau's atmosphere no longer has oxygen - it is not supposed to.
+
+## v1.1.2
+NEW FEATURES / IMPROVEMENTS:
+
+- Improve Lapat and Ovin's ScaledSpace
+- Random main menu bodies are now optional. Change RandomMainMenuBody to false in PromisedWorldsSettings.cfg to disable it and return to stock behavior.
+- Glumo has a new orbit icon
+
+BUGFIXES:
+
+- Update Omasa's description to reflect the change in Mesma's orbit
+
+TECHNICAL IMPROVEMENTS:
+
+- Move all science definitions to localization. If you would like to help translate Promised Worlds, please ping @levitato5594 on our Discord server!
+- Add dummy ModuleManager config to make it easier to detect installed systems. You can now do NEEDS[SystemDebdeb] to detect whether the Debdeb system is installed. This will be useful for mod developers wanting to be compatible with Promised Worlds.
+- Planet debug settings are now a global toggle, under the debug section of PromisedWorldsSettings.cfg
+
+## v1.1.1:
+BUGFIXES:
+
+- Remove planets with rings and atmospheres from being the random body on the loading screen, as they have issues.
+- Remove stock loading screens from the rotation - only ours!
 
 ## v1.1.0:
 NEW FEATURES / IMPROVEMENTS:
@@ -64,70 +116,19 @@ LICENSE CHANGE:
 
 - Going forward, Promised Worlds will be released under the CC-BY-NC-SA license. This means that you will not be allowed to make derivatives for commercial purposes. Promised Worlds is of course still free to download and play, and can be freely modified for non-commercial uses as well, with attribution provided. This change was made to protect Promised Worlds' assets from being taken and used for commercial projects, and does not impact normal end users. 
 
-## v1.1.1:
-BUGFIXES:
+## v1.0.3:
+- (MAJOR bugfix) Fixed null refs which Gurdamma was causing because it couldn't find the VertexColorMap textures
 
-- Remove planets with rings and atmospheres from being the random body on the loading screen, as they have issues.
-- Remove stock loading screens from the rotation - only ours!
-
-## v1.1.2:
-NEW FEATURES / IMPROVEMENTS:
-
-- Improve Lapat and Ovin's ScaledSpace
-- Random main menu bodies are now optional. Change RandomMainMenuBody to false in PromisedWorldsSettings.cfg to disable it and return to stock behavior.
-- Glumo has a new orbit icon
-
-BUGFIXES:
-
-- Update Omasa's description to reflect the change in Mesma's orbit
-
-TECHNICAL IMPROVEMENTS:
-
-- Move all science definitions to localization. If you would like to help translate Promised Worlds, please ping @levitato5594 on our Discord server!
-- Add dummy ModuleManager config to make it easier to detect installed systems. You can now do NEEDS[SystemDebdeb] to detect whether the Debdeb system is installed. This will be useful for mod developers wanting to be compatible with Promised Worlds.
-- Planet debug settings are now a global toggle, under the debug section of PromisedWorldsSettings.cfg
-
-## v1.1.3
-NEW FEATURES / IMPROVEMENTS:
-
-- Bis now has its atmosphere - Arekusu can finally rest.
-- A new setting allows you to re-add stock loading screens if you want. Change RemoveStockScreens to False in PromisedWorldsSettings.cfg to have both stock screens and Promised Worlds'.
-
-BUGFIXES:
-
-- Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
-- Dorau's atmosphere no longer has oxygen - it is not supposed to.
-
-## v1.1.4
-BUGFIXES:
-
-- Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
-
-## v1.2.0
-NEW FEATURES / IMPROVEMENTS:
-
-- Support for Blackrack's V5 volumetric clouds on most planets. V4 clouds are no longer supported.
-- Added Tuun and its first three planets - Puf, Rask, and Rusk.
-- Enhanced Umod's terrain and normal map
-- Updated our title slide to reflect our new developers!
-
-BUGFIXES:
-
-- Fixed an error causing parts of Donk to turn red
-- Fix a missing science def for Ovin's Valley of Despair
-
-TECHNICAL IMPROVEMENTS:
-
-- Move loading tips to localization so those can be translated.
-- A few utility textures for EVE clouds have been added to Core
-
-TRANSLATIONS:
-
-Promised Worlds now has some translations for several languages, thanks to our hardworking translator teams!
-- Added translations for body descriptions and biome names for Spanish and German
-- Added translations for body descriptions for Russian
-
-## v1.2.1
-BUGFIXES:
-
-- Shrink the SOI of wormholes to make sure they don't steal ships from Dres orbit. 
+## v1.0.2:
+- (bugfix) Restored wormhole to the Debdeb system, if enabled. The Kerbol end is now around Dres. Finally, a purpose!
+- (bugfix) Made Charr's Hot Craters and Molten Craters dangerous as designed
+- (bugfix) Stopped a ModuleManager warning when loading the game
+- (bugfix) Change a duplicate Dorau entry to Bis in TiltEm config
+- (enhancement) Enabled the ability to toggle realistic star size
+- (enhancement) Removed duplicate ScanSat.cfg and DistanceScale.cfg in Debdeb - Core has this config, so another is unnecessary.
+- (technical) Ensure all bodies are loaded with FOR[PromisedWorlds]
+- (technical) Ensure all Rational Resources configs have NEEDS[PromisedWorlds]
+- (technical) Move all Debdeb planet names, descriptions, and biome names to localization
+- (technical) Update the version of the bundled VertexColorMapEmissive to 1.1.0
+- (documentation) Update README with information on CKAN and SpaceDock downloads
+  
