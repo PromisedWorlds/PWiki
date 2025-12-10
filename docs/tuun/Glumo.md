@@ -19,6 +19,7 @@ Glumo currently features two moons:
 ## Object Info
 
 - Diameter: 17,780 Kilometers
+- Radius: 8,890 Kilometers
 - Semi-Major Axis: Roughly 48.7 million Kilometers
 - Inclination: 0.2 degrees
 - Rotational Period (In Seconds): Unknown/Undefined

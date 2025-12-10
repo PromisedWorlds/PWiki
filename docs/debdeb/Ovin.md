@@ -11,6 +11,7 @@ Ovin spells disaster for any lander or ship that manages to skim above it's supe
 ## Object Info
 
 - Diameter: 1,920 Kilometers
+- Radius: 960 Kilometers
 - Semi-Major Axis: Roughly 6.9 million Kilometers
 - Inclination: none
 - Rotational Period (In Seconds): 89,560

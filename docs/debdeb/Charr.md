@@ -13,6 +13,7 @@ As stated from interviews with KSP 2 Developers, every celestial body in KSP 2 w
 ## Object Info
 
 - Diameter: 982 Kilometers
+- Radius: 491 Kilometers
 - Semi-Major Axis: Roughly 2.2 million Kilometers
 - Inclination: none
 - Rotational Period (In Seconds): 298,100

@@ -11,6 +11,7 @@ Gurdamma is basically a scientist's dreams come true! It's essentially a Proto-K
 ## Object Info
 
 - Diameter: 1,160 Kilometers
+- Radius: 580 Kilometers
 - Semi-Major Axis: Roughly 10.1 million Kilometers
 - Inclination: none
 - Rotational Period (In Seconds): 7,920
