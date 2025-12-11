@@ -31,7 +31,7 @@ Because of Puf's extremely low density and gravity, you can pull off fun little 
 
 ![](../assets/PufRocket.png)
 
-Puf's poles sway because not only of it's tilt, but it's orbit relative to Tuun, with 24 degrees of roam. Sometimes the poles are at night, and sometimes they are in the Tuun-light! With the low gravity, barely any atmosphere, and a deep, treacherous ocean, Puf's poles might be the right home for a base! Quickly building rockets with deep-sea probes from Puf's surface to deploy into it's Lceans is probably your best bet for exploring Puf!
+Puf's poles sway because not only of it's tilt, but it's orbit relative to Tuun, with 24 degrees of roam. Sometimes the poles are at night, and sometimes they are in the Tuun-light! With the low gravity, barely any atmosphere, and a deep, treacherous ocean, Puf's poles might be the right home for a base! Quickly building rockets with deep-sea probes from Puf's surface to deploy into it's Oceans is probably your best bet for exploring Puf!
 
 ![](../assets/PufPoles.png)
 
