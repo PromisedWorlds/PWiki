@@ -37,7 +37,7 @@ Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a
 
 (No image as Lapat is still WIP)
 
-- Axod - The skewed Axod spins so fast that its hemispheres have offset, creating the highest cliffs Kerbalkind has ever seen. It isn't big enough to clear a path through the protoplanetary disk, so we call it a dwarf planet. It still tries to grab debris from the disk and has decorated itself with some fancy rings.
+- Axod - The skewed dwarf planet Axod spins so fast that its hemispheres have offset over time, giving it a unique shape and creating the highest cliffs Kerbalkind has ever seen. We're hoping to transport Kerbin's most extreme sports personalities here to perform some insane stunts with Axod's thin ring system and small moon, Umod, in the background.
 
 (No image as Axod is still WIP)
 
@@ -45,7 +45,7 @@ Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a
 
 (No image as Umod is still WIP)
     
-- Dorau - The mystical Dorau lurks amongst the dark clouds of the outer Debdeb system. Thin rings cut through the sky, colored by super-compressed methane ice. Methane is also abundant in the atmosphere and gives this ice giant its spectacular blue and cyan stripes. It's a greedy planet and has snatched the dwarf planet Bis from the outer system.
+- Dorau - The mystical Dorau lurks amongst the dark clouds of the outer Debdeb system. This ice giant has lots of methane in its atmosphere, turning it sea blue. Supersonic wind speeds create the drama here, with large storms around the equator, seeded by impact events after the capturing of Bis sent its former moons into chaos. If you have a good eye, you might spot its faint rings.
 
 (No image as Dorau is still WIP)
 

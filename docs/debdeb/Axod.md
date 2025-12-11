@@ -1,6 +1,6 @@
 # Axod
 
-The skewed Axod spins so fast that its hemispheres have offset, creating the highest cliffs Kerbalkind has ever seen. It isn't big enough to clear a path through the protoplanetary disk, so we call it a dwarf planet. It still tries to grab debris from the disk and has decorated itself with some fancy rings.
+The skewed dwarf planet Axod spins so fast that its hemispheres have offset over time, giving it a unique shape and creating the highest cliffs Kerbalkind has ever seen. We're hoping to transport Kerbin's most extreme sports personalities here to perform some insane stunts with Axod's thin ring system and small moon, Umod, in the background.
 
 (No image as Axod is still WIP)
 

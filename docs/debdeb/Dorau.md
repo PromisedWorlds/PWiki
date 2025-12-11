@@ -1,6 +1,6 @@
 # Dorau
 
-The mystical Dorau lurks amongst the dark clouds of the outer Debdeb system. Thin rings cut through the sky, colored by super-compressed methane ice. Methane is also abundant in the atmosphere and gives this ice giant its spectacular blue and cyan stripes. It's a greedy planet and has snatched the dwarf planet Bis from the outer system.
+The mystical Dorau lurks amongst the dark clouds of the outer Debdeb system. This ice giant has lots of methane in its atmosphere, turning it sea blue. Supersonic wind speeds create the drama here, with large storms around the equator, seeded by impact events after the capturing of Bis sent its former moons into chaos. If you have a good eye, you might spot its faint rings.
 
 (No image as Dorau is still WIP)
 
