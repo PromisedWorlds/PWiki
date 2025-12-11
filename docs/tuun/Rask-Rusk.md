@@ -4,7 +4,7 @@
 
 You've never seen siblings fight like this! The fiery twins Rask and Rusk were born after their gargantuan parent proto-planet was split in half, leaving two planets now trapped in an endless destructive spiral. Their immense gravity and proximity means they are slowly ripping each other apart. Be careful when flying near this pair, lest you be caught in the crossfire!
 
-# THE DANGER ZONE
+## THE DANGER ZONE
 
 - The fly zone between Rask and Rusk has been a difficult puzzle to Kerbin's best scientists for ages. If you plan to venture between the mighty twins, it's suggested you take a craft with a lander attached. Sometimes you will get slingshotted out of their Sphere Of Influence, so plan accordingly!
 
@@ -15,7 +15,7 @@ You've never seen siblings fight like this! The fiery twins Rask and Rusk were b
 - Eccentricity = 0.3
 - Sphere Of Influence = Roughly 8,740 Kilometers
 
-# Rask
+## Rask
 
 ![](../assets/Rask.png)
 
@@ -23,7 +23,7 @@ You've never seen siblings fight like this! The fiery twins Rask and Rusk were b
 
 Rask is the larger and stronger of the binary pair. Less lava is pulled to the surface here due to the decreased impact of tidal forces. The crust here is rocky and easily cracks under the stress forming wide cracks across the planet.
 
-## Object Info
+## Rask Info
 
 - Diameter: 2500 Kilometers
 - Radius: 1250 Kilometers
@@ -51,7 +51,7 @@ Here is what Rask looks like from an extremely low orbit:
 
 ![](../assets/RaskSun.png)
 
-# Rusk
+## Rusk
 
 ![](../assets/Rusk.png)
 
@@ -59,7 +59,7 @@ Here is what Rask looks like from an extremely low orbit:
 
 Rusk is taking a massive beating from its twin. Bright lava oceans streak across the planet, as if the planet is on fire. Rusk has a denser metallic crust, constantly being stretched and compressed as the two planets fight. This action causes dense hills and fissures to form, making landing difficult (if it wasn't already). Pack some extra fuel.
 
-## Object Info
+## Rusk Info
 
 - Diameter: 2500 Kilometers
 - Radius: 1250 Kilometers
@@ -85,7 +85,7 @@ Here is Rusk's surface. It's quite metallic, and very hilly. Landing here is qui
 
 ![](../assets/RuskSurface.png)
 
-# General Tips for Rask/Rusk
+## General Tips for Rask/Rusk
 - Orbit as low as you can, not too low, or you'll manage to either get flung out, or crash into one of the twins.
 - Capturing around one of the twins is quite difficult, as the twins orbit eachother within mere hours. Plan accordingly.
 - Bring a sufficient craft, with lots of Delta V and a very high TWR (4.0+).

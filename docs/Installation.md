@@ -57,5 +57,11 @@ These mods are recommended, may require other dependencies, and are not required
 | Parallax V1/V2 | Unsupported/No Configs |
 | Principia (N-Body Sim) | No issues/Causes instability in orbits |
 | Volumetrics V4/V3 and prior | Unsupported/No Configs |
+| Free EVE | Unsupported/No Configs |
 | General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
+| Sol/RSS/KSRSS/JNSQ | Untested/Some Celestial Bodies features may not scale correctly with Sigma Dimensions|
 
+## Known issues with Promised Worlds as of (1.2.1):
+
+- With Visual Enhancement Mods installed (Parallax/EVE), Celestial Body eclipses may become out of alignment with their parent object, or may cast a shadow on themselves in pure sunlight.
+- With Emissive mods installed, Donk will temporarily become red when Exiting it's Sphere of Influence.
