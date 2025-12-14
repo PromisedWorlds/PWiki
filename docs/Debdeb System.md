@@ -40,7 +40,7 @@ Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a
 
 - Axod - The skewed dwarf planet Axod spins so fast that its hemispheres have offset over time, giving it a unique shape and creating the highest cliffs Kerbalkind has ever seen. We're hoping to transport Kerbin's most extreme sports personalities here to perform some insane stunts with Axod's thin ring system and small moon, Umod, in the background.
 
-![](assets/concept%20art%20axod.png)
+![](assets/Axod.png)
 
 - Umod - Umod bears many battle scars. This shattered moon of Axod is putting itself back together after a violent past. While its divets and folds don't hold a flame to its parent body, the swirling patterns and coloration make it stand out. It's oddly delicious looking...
 

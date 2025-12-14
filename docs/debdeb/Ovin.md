@@ -21,6 +21,9 @@ Ovin spells disaster for any lander or ship that manages to skim above it's supe
 Ovin's Surface
 ![](../assets/OvinSurface.png)
 
+A Re-Created Shot using Part Mods from low Ovin Orbit
+![](../assets/OvinShip.png)
+
 Ovin's Rings
 ![](../assets/OvinRings.png)
 
