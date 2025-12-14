@@ -15,12 +15,17 @@ The skewed dwarf planet Axod spins so fast that its hemispheres have offset over
 
 ## A look at Axod Close-up:
 
-Axod is Quite the place! Cliffs so tall it looks comical!
+Axod is Quite the place! Because the dwarf planet spins so rapidly, once every 80 minutes, the planet has begun to fling itself apart, creating cliffs so tall it looks comical!
 
-![](../assets/AxodSurface2.png)
+![](../assets/AxodCliffs.png)
 
+A look at the cliffs from the eyes of a Kerbal
+![](../assets/AxodSurface.png)
+
+One of the smaller rifts/valleys from above
 ![](../assets/AxodLow.png)
 
-![](../assets/AxodSurface.png)
+A look at one of Axod's many mountains
+![](../assets/AxodSurface2.png)
 
 *The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*
