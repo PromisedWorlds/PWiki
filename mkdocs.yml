@@ -27,6 +27,7 @@ theme:
 nav:
   - Home: index.md
   - Installation: Installation.md
+  - Promised Accuracy: Promised Accuracy.md
   - Debdeb System:
     - System Overview: Debdeb System.md
     - Debdeb Celestial Bodies:
