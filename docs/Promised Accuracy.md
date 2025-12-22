@@ -70,9 +70,9 @@ While lots was found, there are still 2 moons that we have nothing for. For Debd
 
 
 
-## GUP - 1/5
+## GUP - 0/5
 
-- Seen once indirectly in a dev video in the map view
+- Possibly Seen once indirectly in a dev video in the map view
 
 - No synopsis found
 
@@ -118,7 +118,7 @@ While lots was found, there are still 2 moons that we have nothing for. For Debd
 
 
 
-## DORAU - 2/5
+## DORAU - 3.5/5
 
 - Seen in early access trailer, concept art found
 

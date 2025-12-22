@@ -16,17 +16,36 @@ So far, we have implemented the Debdeb System. The Tuun System is in the early s
 
 Promised Worlds is currently in early access. Planets, moons, and other features are being added in our [Releases](https://github.com/PromisedWorlds/PromisedWorlds/releases).
 
-We're nearing our next release, which is the Debdeb Revamp. The update aims to accurately represent what the developers intended for The Debdeb System in KSP 2, with only a handful of features left to add.
+The current build of Promised Worlds contains a mix of planets (and some entirely new bodies) that use our creative imaginations and fuses the understandings of our previous findings. 
+
+We have now realized that some of our findings (as of release v1.2.1 and prior) were mostly mixed and misunderstood from our new findings, and as such, lots of changes are taking place.
+
+With this new info we have discovered, we are nearing our next release, which is the Debdeb Revamp. The update aims to accurately represent what the developers intended for The Debdeb System in KSP 2, with only a handful of features left to add.
 
 After the release of the Debdeb Revamp, we plan to focus on completing the Tuun System as accurately as possible to the KSP 2's developers intentions.
 
-*The Wiki of PW is currently for PW version 2.0.0 (Not released.), If you still see this message upon the release of 2.0.0, please notify the Dev team, or report an [issue](https://github.com/PromisedWorlds/PWiki/issues)*
+Other features may be incrementally added in patch updates.
 
 ## How we create Promised Worlds
 
 All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
  
 Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod, Gup), we are currently applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
+
+## Getting Started
+
+ - To install Promised Worlds, follow this [Installation Guide](https://promisedworlds.github.io/PWiki/Installation/)
+
+## Explore the star systems of Promised Worlds
+
+ - [Debdeb System](https://promisedworlds.github.io/PWiki/Debdeb%20System/)
+ - [Tuun System](https://promisedworlds.github.io/PWiki/Tuun%20System/)
+ - [Qeg System](https://promisedworlds.github.io/PWiki/Qeg%20System/)
+
+## Other useful info
+
+ - View our current [Changelog](https://promisedworlds.github.io/PWiki/Changelog/)
+ - View the [Accuracy of Promised Worlds](https://promisedworlds.github.io/PWiki/Promised%20Accuracy/)
 
 ## Community
 
