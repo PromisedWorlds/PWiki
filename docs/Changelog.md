@@ -1,3 +1,5 @@
+![](assets/Changelog.png) 
+
 # Changelog
 
 Go to <https://github.com/PromisedWorlds/PromisedWorlds> to see the older changelogs for older PromisedWorlds versions

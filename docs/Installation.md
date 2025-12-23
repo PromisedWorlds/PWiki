@@ -1,3 +1,5 @@
+![](assets/InstallationGuide.png) 
+
 # Installation
 
 This is a complete installation guide on how to install Promised Worlds for Kerbal Space Program.
@@ -52,14 +54,14 @@ These mods are recommended, may require other dependencies, and are not required
 
 ## Outdated Mods/Incompatibility
 
-| Mod | Conflict |
-|----------|----------|
-| Parallax V1/V2 | Unsupported/No Configs |
-| Principia (N-Body Sim) | No issues/Causes instability in orbits |
-| Volumetrics V4/V3 and prior | Unsupported/No Configs |
-| Free EVE | Unsupported/No Configs |
-| General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
-| Sol/RSS/KSRSS/JNSQ | Untested/Some Celestial Bodies features may not scale correctly with Sigma Dimensions|
+| Compatibility | Mod | Reason/Conflict |
+|----------|----------|----------|
+|❌| Parallax V1/V2 | Unsupported/No Configs |
+|❓| Principia (N-Body Sim) | No issues/Causes instability in orbits |
+|❌| Volumetrics V4/V3 and prior | Unsupported/No Configs |
+|❌| Free EVE | Unsupported/No Configs |
+|❓| General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
+|❓| Sol/RSS/KSRSS/JNSQ | Untested/Some Celestial Bodies features may not scale correctly with Sigma Dimensions|
 
 ## Known issues with Promised Worlds as of (1.2.1):
 

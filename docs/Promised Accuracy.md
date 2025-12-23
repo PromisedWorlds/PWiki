@@ -1,3 +1,5 @@
+![](assets/PromisedAccuracy.png)
+
 # PROMISED WORLDS ACCURACY CONFIDENCE
 
 This page is for how confident we are in our interpretations of each confirmed system, star, planet and moon. We know a lot about some bodies so their portrayals are going to be very accurate. Other portrayals are based on very little or no info, so we take creative liberties. Our confidence in each body is measured on a scale from 0-5, where 5 is fully confident and 0 is not confident at all..
