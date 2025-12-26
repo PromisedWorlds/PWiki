@@ -29,7 +29,7 @@ This is a complete installation guide on how to install Promised Worlds for Kerb
 - For each system you want:
     - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
 - Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), [Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (Singularity and Kopernicus Expansion-er is only required if you wish to use wormholes)
-- Other dependencies may be required, such as [Duckweed Utils Oblate](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases) , [Duckweed Utils Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases) , and 
+- Other dependencies may be required, but may also be already bundled with Promised Worlds, such as [Duckweed Utils Oblate](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases) , [Duckweed Utils Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases) , and 
 [Niako's Utils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/tag/0.3) (These add terrain detail, oblate bodies, and Emissive textures.)
 - Extract these zip files and put all folders in KSP's GameData directory.
   

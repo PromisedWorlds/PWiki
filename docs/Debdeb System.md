@@ -1,6 +1,6 @@
 # The Debdeb System
 
-![](assets/DebdebSystemMap.jpeg)
+![](assets/DebdebSystemMap.png)
 
 **DESCRIPTION**
 
