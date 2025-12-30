@@ -23,5 +23,7 @@ As stated from interviews with KSP 2 Developers, every celestial body in KSP 2 w
 
 ![](../assets/CharrSrf1.png)
 
+![](../assets/CharrAbove.png)
+
 
 *The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*

@@ -308,7 +308,7 @@ All we have of this system is its star. There are no planets or moons around Qeg
 
 - Stellar coordinates and system orientation found in files
 
-- Test Lighting footage found in dev video #2 "The Kerbals"
+- [Possible Test Lighting footage](https://imgur.com/a/r6EvyZ6) found in dev video #2 "The Kerbals"
 
 - Never mentioned by devs
 

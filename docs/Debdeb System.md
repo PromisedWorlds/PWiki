@@ -8,7 +8,11 @@ Centered within a vast protoplanetary disk, the Debdeb System is a young star sy
 
 **SYSTEM LAYOUT**
 
-Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a large cold cloud of gas and dust collapsed due to gravity and formed this orange dwarf star. Surrounding it is a proto-planetary disk containing the ingredients for new planets. Within this disk orbits 6 young planets, each with gripping stories to tell.
+- Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a large cold cloud of gas and dust collapsed due to gravity and formed this orange dwarf star. However, due to it's age, its slightly larger than Kerbol, and vastly more active, which leads to lots of solar activity. Surrounding it is a proto-planetary disk containing the ingredients for new planets. The planets have also had the proper time to clear their orbits, making the ring-like structure of the proto-disk. Within this disk orbits 6 young planets, each with gripping stories to tell.
+
+![](assets/DebbyDisk.png)
+
+![](assets/Debdeb2.png)
 
 - Charr - Do you love sunbathing? Charr is your new best friend. This bombarded hunk of iron is snuggled up right next to Debdeb, glowing bright red from the heat. Despite being smaller than Kerbin, its mighty density gives it almost twice the gravity of Kerbin! There's likely an abundance of rare metals and materials here.
 
@@ -52,6 +56,6 @@ Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a
 
 - Bis - This ball of ice was named for its crinkly cantaloupe terrain and canyons resembling a crunchy ice biscuit. The crust, made of ammonia, water, and nitrogen ice, conceals the liquid ocean beneath. This ocean causes extreme cryovolcanism leading to eruptions and crimson stains across the surface, especially inside of the canyons. Large impacts have formed flat planitia around the place, reminding you of Minmus. It also has a thin atmosphere.
 
-(No image as Bis is still WIP)
+![](assets/Bis.png)
 
 *The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*
