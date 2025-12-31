@@ -19,19 +19,23 @@ Gurdamma is basically a scientist's dreams come true! It's essentially a Proto-K
 
 ## A look at Gurdamma Close-up:
 
+Gurdamma has the nicest dual rings you'll ever see. Cleared out by what scientists are calling a 'proto-Mun,' Donk.
+
+![](../assets/GurdammaRings.png)
+
 A look at Gurdammas volcanoes, along with it's surface, and surrounding clouds.
 
-![](../assets/GurdammaVolcanoes.png)
+![](../assets/GurdammaVolcano.png)
 
-Because of rapid Volcanic activities, there are quite a few side effects, as well as the greenhouse effect taking place. Gurdamma's poles are usually covered entirely in clouds! What a sight!
+Because of rapid Volcanic activities and fissures around the planet, there are quite a few side effects, as well as the greenhouse effect taking place.
 
-![](../assets/GurdammaPoles.png)
+![](../assets/GurdammaFissures.png)
 
-![](../assets/GurdammaNight.png)
+![](../assets/GurdammaFissures2.png)
 
 You can find lots of goop in Gurdamma's vast Green/Blue oceans!
 
-![](../assets/GurdammaOceans1.png)
+![](../assets/GurdammaOceans.png)
 
 It's thought there are vents beneath the ocean's surface, which if true, Kerbin scientists might be able to confirm if this is how life started on Kerbin.
 
@@ -39,9 +43,17 @@ It's thought there are vents beneath the ocean's surface, which if true, Kerbin 
 
 On Gurdammas surface, you'll find a collection of rock, ash, and a heavy presence of recent, and occuring geological activity:
 
-![](../assets/GurdammaSurface.png)
+![](../assets/GurdammaSurface1.png)
+
+![](../assets/GurdammaSurface2.png)
+
+You'll also occasionally find craters filled with water. One must investigate the goop of Gurdamma.
+
+![](../assets/GurdammaCraters.png)
 
 Occasionally, Gurdamma has Volcanic Winters, caused by heavy Geological activity from both it's moon, Donk, and it's own Geological activity. One must wonder how life survived in such a hostile, yet serene and peaceful environment. 
+
+![](../assets/GurdammaVolcanicWinter.png)
 
 ![](../assets/VolcanicWinters.png)
 
