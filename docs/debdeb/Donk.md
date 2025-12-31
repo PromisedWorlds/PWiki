@@ -7,7 +7,7 @@ Donk was allowed to be named by a public vote and is now a permanent reminder to
 ## Object Info
 
 - Diameter: 290 Kilometers
-- Radius: 145 Meters
+- Radius: 145 Kilometers
 - Orbits: Gurdamma
 - Semi-Major Axis: Roughly 2,120 Kilometers
 - Inclination: none

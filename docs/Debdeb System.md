@@ -48,11 +48,11 @@ Centered within a vast protoplanetary disk, the Debdeb System is a young star sy
 
 - Umod - Umod bears many battle scars. This shattered moon of Axod is putting itself back together after a violent past. While its divets and folds don't hold a flame to its parent body, the swirling patterns and coloration make it stand out. It's oddly delicious looking...
 
-(No image as Umod is still WIP)
+![](assets/Umod.png)
     
 - Dorau - The mystical Dorau lurks amongst the dark clouds of the outer Debdeb system. This ice giant has lots of methane in its atmosphere, turning it sea blue. Supersonic wind speeds create the drama here, with large storms around the equator, seeded by impact events after the capturing of Bis sent its former moons into chaos. If you have a good eye, you might spot its faint rings.
 
-(No image as Dorau is still WIP)
+![](assets/Dorau.png)
 
 - Bis - This ball of ice was named for its crinkly cantaloupe terrain and canyons resembling a crunchy ice biscuit. The crust, made of ammonia, water, and nitrogen ice, conceals the liquid ocean beneath. This ocean causes extreme cryovolcanism leading to eruptions and crimson stains across the surface, especially inside of the canyons. Large impacts have formed flat planitia around the place, reminding you of Minmus. It also has a thin atmosphere.
 
