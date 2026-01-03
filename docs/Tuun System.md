@@ -10,6 +10,10 @@ Dense and alien, the Tuun System is a prime destination for daring explorers. El
 
 - Tuun - Bigger, brighter, hotter, mass-ier, Tuun is an F-type main-sequence star, and is the brightest star in Kerbin's night sky. Its Goldilocks zone is massive, meaning this star system has more potential for life than the Kerbolar system! Maybe you'll turn over a rock and find a teeny-tiny space center.
 
+![](assets/TuunSystem.png)
+
+![](assets/Tuun2.png)
+
 - Hurr - There's nowhere as windy and as blustery as Hurr. Tidally-locked to Tuun, the side facing the sun is constantly blasted with heat, while the dark side is hidden away, forever a cold bleak landscape of snow and ice. Temperatures are much more liveable along the terminator, with some spots of liquid water. It's a great place for generating power. Wind and sun are plentiful here! Just be careful where you place your colony...
 
 - Rask & Rusk - You've never seen siblings fight like this! The fiery twins Rask and Rusk were born after their gargantuan parent proto-planet was split in half, leaving two planets now trapped in an endless destructive spiral. Their immense gravity and proximity means they are slowly ripping each other apart. Be careful when flying near this pair, lest you be caught in the crossfire!
