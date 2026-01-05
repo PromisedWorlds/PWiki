@@ -8,7 +8,7 @@ Groovy Glumo is truly one of a kind. Between the iconic rings and colorful satel
 
 Glumo Frequents a still, calm, but very interesting gaseous state. It's been the only observed Gas Giant to Kerbals to have seasonal weather changes. That also includes some swaying colors as mentioned above. Aurora are also a frequent occurence on Glumo and it's moons. Meaning, you may not see them all the time.
 
-![](../assets/GlumoSeason.png)
+(Glumo Seasons are currently WIP, however they are in our development build, which is not public.)
 
 Glumo currently features two moons:
 

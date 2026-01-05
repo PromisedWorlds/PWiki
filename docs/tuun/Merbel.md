@@ -1,6 +1,6 @@
 # Merbel
 
-![](../assets/Merbel.png)
+![](../assets/Merbel2.png)
 
 ## Merbel Description:
 
@@ -11,8 +11,6 @@ Merbel has gone a different aesthetic direction from other celestial bodies. It 
 ## Detailed Explanation of Merbel
 
 Merbel strikes many unique geographical formations, due to it's mostly methane ice crust, and wind-chilled deserts. The chilling winds are so repetitive on Merbel that they have formed Ice-streaks across the surface, and have since formed everlasting ice-caps.
-
-![](../assets/MerbelSpace2.png)
 
 ## Object Info
 
@@ -25,13 +23,13 @@ Merbel strikes many unique geographical formations, due to it's mostly methane i
 - Rotational Period (In Seconds): 28,800
 - GeesASL (At Sea Level): 0.46G's
 
-# Merbel's Poles
+# Merbel's Surface & Poles
 
-Merbel also features very calm and faint aurora on it's poles. It's quite the place for an outpost as Glumo rises and sets in the distance, as well as seeing the rest of the Tuun planets from here!
+Merbel is quite the place for an outpost as Glumo rises and sets in the distance, as well as seeing the rest of the Tuun planets from here!
 
-![](../assets/MerbelAurora.png)
+![](../assets/MerbelSurf.png)
 
-![](../assets/MerbelPoles.png)
+![](../assets/MerbelScat.png)
 
 # Merbel's Oceans
 
@@ -40,8 +38,6 @@ Merbel also featuers a striking equatorial nearly frozen ocean, which near the c
 ![](../assets/MerbelOcean.png)
 
 ![](../assets/MerbelSurfOcean.png)
-
-![](../assets/MerbelSurf.png)
 
 ## General Tips for Merbel
 If you plan to visit merbel, make sure to pack hiking boots with spikes, as the terrain is quite slippery, and basically always frozen in the cold!

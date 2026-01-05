@@ -37,9 +37,11 @@ Dense and alien, the Tuun System is a prime destination for daring explorers. El
 
   - Noj - Noj is a shepherd moon formed from the accretion of ice and other silly things encountered while orbiting Glumo's ring system. Dust stains the ice to create lovely pops of color on it's surface. Pretty colors aside, scientists can't shut up about the initial readings from Noj, and they want more data, if we can get there.
 
+   ![](assets/Noj.png)
+
   - Merbel - Merbel has gone a different aesthetic direction from other celestial bodies. It dons a bold sea of methane and ammonia between its two massive ice caps. The dizzying rotation speed and low inclination gets the equator a lot of Tuun's attention. Merbel's orbital plane is completely off from Glumo's equator, suggesting it was once a planet itself that got captured by Glumo. Other moons may have been destabilized, possibly creating Glumo's iconic rings!
 
-  ![](assets/Merbel.png)
+  ![](assets/Merbel2.png)
 
 
 - Skut - Skut is the funkiest chunk of rock around! See how it looks like two asteroids fused together? Well we think that's how it got its unique arrowhead shape. Skut's shape isn't the only oddity though. Its wildly eccentric orbit sees it pass extremely close to Tuun and then back out into the farther reaches of the system. Maybe it can't decide where to set the thermostat.
