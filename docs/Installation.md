@@ -44,13 +44,26 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 
 (Upon the release of 2.0.0, you can change these settings in-game with the icon that is in the top right corner of the main menu of KSP, labeled "PW", *requires restart upon changing settings*)
 
-## Recommended Mods
-These mods are recommended, may require other dependencies, and are not required, however they upgrade the visual experience for Promised Worlds:
+## Compatible Mods
 
-- [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) (Works well with [Deffered](https://github.com/LGhassen/Deferred/releases)) (This adds high-quality close-up terrain and ground scatters if you have Promised Worlds installed)
-- [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553) (This adds raymarching volumetric clouds to the Kerbol system, and overhauls all EVE/Scatterer Public releases. Adds cloud support to all Promised Worlds systems)
-
-- [Firefly](https://github.com/M1rageDev/Firefly/releases) (This adds re-entry effects to bodies with atmospheres.)
+| Mod Category | Compatibility | Mod | Details |
+|----------|----------|----------|----------|
+| Quality Of Life |✅| [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) | Adds Radiation Belts + More |
+||✅| [Rational Resources](https://github.com/JadeOfMaar/RationalResources/releases) | Support Included |
+||✅| [Space Dust](https://github.com/post-kerbin-mining-corporation/SpaceDust/releases) | Scoop/Gather Fuels |
+| Visuals (Recommended) |✅| [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553) | Adds Clouds, Aurora, Atmosphere Scatters |
+||✅| [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases) | Planet ground/space Reflections |
+||✅| [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject/releases) | Planetary Flares |
+||✅| [Firefly](https://github.com/M1rageDev/Firefly/releases) | Adds Re-entry effects |
+||✅| [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) | Adds Detailed Terrain |
+||✅| [Deffered](https://github.com/LGhassen/Deferred/releases) | Adds Deffered Rendering (Optional) |
+| Planet Packs |✅| Outer Planets Mod | Compatibility Checked |
+||✅| Minor Planets Expansion | Compatibility Checked |
+||✅| Cosmic Serenity | Compatibility Checked |
+||✅| Kcalbeloh | Compatibility Checked |
+||✅| KSS 2 | Compatibility Checked |
+||✅| Sol/RSS | Compatibility Checked (only in 10x Rescale) |
+||✅| JNSQ | Compatibility Checked (only in 2.5x Rescale) |
 
 ## Outdated Mods/Incompatibility
 
@@ -60,8 +73,8 @@ These mods are recommended, may require other dependencies, and are not required
 |❓| Principia (N-Body Sim) | No issues/Causes instability in orbits |
 |❌| Volumetrics V4/V3 and prior | Unsupported/No Configs |
 |❌| Free EVE | Unsupported/No Configs |
+|❓| TiltEm | Adds Axial Tilt - Current TiltEm causes issues but remains useable|
 |❓| General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
-|❓| Sol/RSS/KSRSS/JNSQ | Untested/Some Celestial Bodies features may not scale correctly with Sigma Dimensions|
 
 ## Known issues with Promised Worlds as of (1.2.1):
 
