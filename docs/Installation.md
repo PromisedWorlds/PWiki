@@ -28,9 +28,19 @@ This is a complete installation guide on how to install Promised Worlds for Kerb
 - Extract the Core zip file, and put the contents of GameData in your GameData directory.
 - For each system you want:
     - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), [Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (Singularity and Kopernicus Expansion-er is only required if you wish to use wormholes)
-- Other dependencies may be required, but may also be already bundled with Promised Worlds, such as [Duckweed Utils Oblate](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases) , [Duckweed Utils Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases) , and 
-[Niako's Utils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/tag/0.3) (These add terrain detail, oblate bodies, and Emissive textures.)
+- Download the mod's dependencies: 
+ - [Kopernicus](https://github.com/kopernicus/kopernicus/releases) (Read the Kopernicus install Guide, as Kopernicus requires it's own dependencies)
+ - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) (Fixes most issues with interstellar travel.)
+ - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (Singularity is only required if you wish to use wormholes)
+
+Other Dependencies are **ALREADY BUNDLED** with Promised Worlds, however, if the files do not correctly install, we've left these links here: 
+
+ - [Duckweed Utils Oblate](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases) 
+ - [Duckweed Utils Emissive](https://github.com/jamespglaze/VertexColorMapEmissive/releases)
+ - [Niako's Utils](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases/tag/0.3)
+ - [Kopernicus Expansion-er](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases)
+ - [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases)
+
 - Extract these zip files and put all folders in KSP's GameData directory.
   
 ## Options
@@ -41,6 +51,7 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - DistanceFactor (How far from Kerbol the systems will be)
 - Rescale (Resize the systems, requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
 - RealisticStarSize (Makes the stars more realistically sized relative to the planets)
+- RemoveStockScreens (Removes Stock Loading Screens and only uses Promised Worlds Media as loading screens)
 
 (Upon the release of 2.0.0, you can change these settings in-game with the icon that is in the top right corner of the main menu of KSP, labeled "PW", *requires restart upon changing settings*)
 
