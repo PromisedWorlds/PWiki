@@ -10,6 +10,14 @@
 
 **Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2 implemented fully into KSP 1. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
 
+## How we create Promised Worlds
+
+- We are not using any KSP 2 assets, and never will or have.
+- All content and assets for Promised Worlds are designed in-house using tools like Blender, Gaia, Gimp, and other resources/applications where available. 
+- Our AI policy is that we **DO NOT USE** AI (Artifical/Generative Intelligence) in any way, shape, or form. This also includes using it for outside inspiration.
+ 
+Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod, Gup), we are currently applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
+
 ## Promised Worlds Progress
 
 So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented in the public releases. The Qeg System is being conceptualized (an uncertain feature).
@@ -25,12 +33,6 @@ With this new info we have discovered, we are nearing our next release, which is
 After the release of the Debdeb Revamp, we plan to focus on completing the Tuun System as accurately as possible to the KSP 2's developers intentions.
 
 Other features may be incrementally added in patch updates.
-
-## How we create Promised Worlds
-
-All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
- 
-Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod, Gup), we are currently applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
 ## Getting Started
 
