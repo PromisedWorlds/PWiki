@@ -87,6 +87,24 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 |❓| TiltEm | Adds Axial Tilt - Current TiltEm causes issues but remains useable|
 |❓| General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
 
+## Common fixes (Q/A)
+
+Q: Clouds are not appearing on any Promised Worlds Celestial Body, what do I do?
+
+A: Check to see if you have EVE Redux. Currently, Promised Worlds does not support EVE Redux/Free EVE, and only supports Volumetric EVE, which is a paid mod, and can be found here: [Volumetric EVE](https://www.patreon.com/posts/true-volumetric-139879553)
+
+Q: Parallax is giving me errors when I start the game, what do I do?
+
+A: This is due to an incorrect install, or missing dependencies for either Promised Worlds, or Parallax Continued. Check the install guide at the top of this page, and if the issue still persists, [report an issue](https://github.com/PromisedWorlds/PromisedWorlds/issues) on the Repository.
+
+Q: None of the Promised Worlds bodies load when I go to map view, what is causing this?
+
+A: This is due to missing dependencies for Kopernicus, check if you have all the dependencies, listed on the [Kopernicus](https://github.com/Kopernicus/Kopernicus) page in the "README" section.
+
+Q: Does Promised Worlds have lower graphics settings?
+
+A: Promised Worlds Supports Graphics Mods to make use of better visuals. Those mods themselves include settings to reduce lag and improve performance for lower-end devices. At the top of this page, we have a recommended specs sheet to get the maximum performance out of Promised Worlds.
+
 ## Known issues with Promised Worlds as of (1.2.1):
 
 - With Visual Enhancement Mods installed (Parallax/EVE), Celestial Body eclipses may become out of alignment with their parent object, or may cast a shadow on themselves in pure sunlight.

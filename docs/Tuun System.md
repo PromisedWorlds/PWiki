@@ -1,12 +1,14 @@
 # The Tuun System
 
+## **MAPS**
+
 ![](assets/TuunSystemMap.jpeg)
 
-**DESCRIPTION**
+## **DESCRIPTION**
 
 Dense and alien, the Tuun System is a prime destination for daring explorers. Eleven exotic worlds are anchored around a massive, F-Class star. Brave the barycenter of Rask and Rusk, navigate the depths of Puf's superocean, and dive into Verda's cloud deck in this ultimate interstellar adventure.
 
-**SYSTEM LAYOUT**
+## **SYSTEM LAYOUT**
 
 - Tuun - Bigger, brighter, hotter, mass-ier, Tuun is an F-type main-sequence star, and is the brightest star in Kerbin's night sky. Its Goldilocks zone is massive, meaning this star system has more potential for life than the Kerbolar system! Maybe you'll turn over a rock and find a teeny-tiny space center.
 

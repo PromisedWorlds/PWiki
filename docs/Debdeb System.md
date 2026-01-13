@@ -1,12 +1,16 @@
 # The Debdeb System
 
+## **MAPS**
+
 ![](assets/DebdebSystemMap.png)
 
-**DESCRIPTION**
+![](assets/DeltaVMapDebdeb.png)
+
+## **DESCRIPTION**
 
 Centered within a vast protoplanetary disk, the Debdeb System is a young star system only a few light-years from Kerbol. Debdeb's planets are a glimpse of a distant past: there's Charr, a fiery, iron-bound ancestor of Moho; Gurdamma, a cratered oasis teeming with the ingredients for life; Ovin, a superheavy wasteland with gorgeous rings; and much, much more. Want to surf on the **MASSIVE** low-gravity cliffs of Axod? Dive into the storms of Dorau? or perhaps witness the Cryovolcanoes of Bis? in Debdeb, you'll feel right at home!
 
-**SYSTEM LAYOUT**
+## **SYSTEM LAYOUT**
 
 - Debdeb - On the cosmic timescale, Debdeb is a baby star. 10 million years ago, a large cold cloud of gas and dust collapsed due to gravity and formed this orange dwarf star. However, due to it's age, its slightly larger than Kerbol, and vastly more active, which leads to lots of solar activity. Surrounding it is a proto-planetary disk containing the ingredients for new planets. The planets have also had the proper time to clear their orbits, making the ring-like structure of the proto-disk. Within this disk orbits 6 young planets, each with gripping stories to tell.
 
