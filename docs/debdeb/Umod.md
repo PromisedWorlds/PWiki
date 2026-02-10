@@ -11,7 +11,7 @@ Umod bears many battle scars. This shattered moon of Axod is putting itself back
 - Semi-Major Axis: Roughly 22 thousand Kilometers
 - Inclination: none
 - Eccentricity: 0.2
-- Rotational Period (In Seconds): 7,400
+- Rotational Period (In Seconds): 9,600
 - GeesASL (At Sea Level): 0.009G's
 
 ## A look at Umod Close-up

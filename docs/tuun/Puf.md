@@ -14,6 +14,7 @@ Puf's unsettling nature is due to it's extremely deep ocean, nearing 100km deep,
 - Radius: 450 Kilometers
 - Semi-Major Axis: Roughly 120 million Kilometers
 - Inclination: 24 degrees
+- Eccentricity: 0.2
 - Rotational Period (In Seconds): 51,200
 - GeesASL (At Sea Level): 0.22G's
 
