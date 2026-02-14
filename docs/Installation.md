@@ -12,7 +12,12 @@ This is a complete installation guide on how to install Promised Worlds for Kerb
 | RAM | 16GB | 32GB |
 | GPU | 2GB VRAM | 4GB VRAM |
 | Storage | 5GB Free Space | 10GB Free Space |
-| Platforms | Windows | Windows (Linux/MacOS have issues when testing) |
+| Platforms | Windows/Linux/MacOS* | Windows/Linux/MacOS* |
+
+### Installation on Linux / MacOS
+Promised Worlds works on Linux and MacOS, however the ScaledDecorator particle effects (which form Debdeb's protoplanetary disk) do not currently work correctly with OpenGL. 
+For Linux, it is recommended to run the Windows version of the game through Proton.
+We are working on improving compatibility, so we can hopefully support all platforms equally in the future.
 
 ## CKAN
 
@@ -62,12 +67,12 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 | Quality Of Life |✅| [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) | Adds Radiation Belts + More |
 ||✅| [Rational Resources](https://github.com/JadeOfMaar/RationalResources/releases) | Support Included |
 ||✅| [Space Dust](https://github.com/post-kerbin-mining-corporation/SpaceDust/releases) | Scoop/Gather Fuels |
-| Visuals (Recommended) |✅| [Volumetrics V5](https://www.patreon.com/posts/true-volumetric-139879553) | Adds Clouds, Aurora, Atmosphere Scatters |
+| Visuals (Recommended) |✅| [True Volumetric Clouds Release 3 or Higher](https://www.patreon.com/posts/true-volumetric-139879553) | Adds Clouds, Aurora, Atmosphere Scatters |
 ||✅| [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases) | Planet ground/space Reflections |
 ||✅| [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject/releases) | Planetary Flares |
 ||✅| [Firefly](https://github.com/M1rageDev/Firefly/releases) | Adds Re-entry effects |
 ||✅| [Parallax Continued](https://github.com/Gameslinx/Parallax-Continued/releases) | Adds Detailed Terrain |
-||✅| [Deffered](https://github.com/LGhassen/Deferred/releases) | Adds Deffered Rendering (Optional) |
+||✅| [Deferred](https://github.com/LGhassen/Deferred/releases) | Adds Deferred Rendering (Optional) |
 | Planet Packs |✅| Outer Planets Mod | Compatibility Checked |
 ||✅| Minor Planets Expansion | Compatibility Checked |
 ||✅| Cosmic Serenity | Compatibility Checked |
@@ -82,8 +87,7 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 |----------|----------|----------|
 |❌| Parallax V1/V2 | Unsupported/No Configs |
 |❓| Principia (N-Body Sim) | No issues/Causes instability in orbits |
-|❌| Volumetrics V4/V3 and prior | Unsupported/No Configs |
-|❌| Free EVE | Unsupported/No Configs |
+|❌| Free EVE Redux | Unsupported/No Configs |
 |❓| TiltEm | Adds Axial Tilt - Current TiltEm causes issues but remains useable|
 |❓| General/Old planet packs (KSP 1.11.X/prior) | Untested/May cause issues |
 
@@ -105,7 +109,7 @@ Q: Does Promised Worlds have lower graphics settings?
 
 A: Promised Worlds Supports Graphics Mods to make use of better visuals. Those mods themselves include settings to reduce lag and improve performance for lower-end devices. At the top of this page, we have a recommended specs sheet to get the maximum performance out of Promised Worlds.
 
-## Known issues with Promised Worlds as of (1.2.1):
+## Known issues with Promised Worlds:
 
 - With Visual Enhancement Mods installed (Parallax/EVE), Celestial Body eclipses may become out of alignment with their parent object, or may cast a shadow on themselves in pure sunlight.
 - With Emissive mods installed, Donk will temporarily become red when Exiting it's Sphere of Influence.
