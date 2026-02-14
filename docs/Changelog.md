@@ -6,17 +6,20 @@ Older Promised Worlds Changelogs can be found here <https://github.com/PromisedW
 
 ## V2.0.3
 NEW FEATURES / IMPROVEMENTS:
+
 - Upgraded the install checking plugin to help with more installation errors
 - Plugin now checks for all Promised Worlds and Kopernicus dependencies
 - Made the message for unsupported EVE version more clear to differentiate between EVE Redux and True Volumetric Clouds
 - Some improvements to Simplified Chinese translation
 
 BUGFIXES:
+
 - Added a missing localization key for Gurdamma's Ashen Midlands
 - Updated Axod's description to make more sense
 
 ## V2.0.2
 BUGFIXES:
+
 - Fix Umod's terrain having gaps in it
 - Fix a typo in the skybox config file so the skybox actually works
 - Fix the Promised Worlds menu icon not loading correctly on Linux/Mac
@@ -25,6 +28,7 @@ BUGFIXES:
 ## V2.0.1
 
 BUGFIXES:
+
 - The skybox setting now works correctly with KSP DiRT. If using TextureReplacer, the skybox cannot be disabled.
 
 ## V2.0.0
@@ -33,6 +37,7 @@ Due to the wide-reaching impact of this update, we recommend you start a new sav
 We appreciate the patience and support of the community and hope you enjoy what we've been preparing!
 
 REVAMPS BASED ON NEW KSP 2 DISCOVERIES:
+
 - Debdeb is now larger - we re-estimated its size.
 - The protoplanetary disk has once again been changed to a more realisting thinner and darker appearance that aligns with KSP 2 footage.
 - Dorau is now a gas giant (what we thought was Axod).
