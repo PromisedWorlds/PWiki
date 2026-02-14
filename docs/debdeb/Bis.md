@@ -15,7 +15,7 @@ Bis is just plain ice. Astronomers once thought they should have named it Bice, 
 - Semi-Major Axis: Roughly 41,900 Kilometers
 - Inclination: 74 degrees
 - Eccentricity: 0.6
-- Rotational Period (In Seconds): 75,800
+- Rotational Period (In Seconds): 1,210,000
 - GeesASL (At Sea Level): 0.189G's
 
 ## A look at Bis Close-up

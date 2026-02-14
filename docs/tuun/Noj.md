@@ -14,7 +14,7 @@ Noj is quite the spectacle. Due to many bombardments of it's formation, it has s
 - Radius: 5,500 Meters
 - Orbits: Glumo
 - Semi-Major Axis: Roughly 20 thousand Kilometers
-- Inclination: 60 degrees
+- Inclination: 63 degrees
 - Eccentricity: none
 - Tidally Locked: True
 - GeesASL (At Sea Level): 0.005G's

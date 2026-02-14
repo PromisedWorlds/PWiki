@@ -55,9 +55,12 @@ Dense and alien, the Tuun System is a prime destination for daring explorers. El
 
 ---
 
-*The Tuun system is currently a Work in Progress. The current implemented bodies as of 1.2.1 are:*
+*The Tuun system is currently a Work in Progress. The current implemented bodies as of 2.0.0 are:*
 
 - Rask/Rusk
 - Puf
+- Glumo
+- Noj
+- Merbel
 
-*Upon the release of 2.0.0, Promised Worlds will shift Glumo/Noj/Merbel from their current residences of The Debdeb System to The Tuun System, as it was in KSP 2. If you still see this message after the release of 2.0.0, please notify the Dev team, or make an issue on this repository*
+*The Systems of Promised Worlds may change in-between updates. Please notify the Dev team if this is out of date, or make an issue on this repository.*
