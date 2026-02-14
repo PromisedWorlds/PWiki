@@ -2,7 +2,103 @@
 
 # Changelog
 
-Go to <https://github.com/PromisedWorlds/PromisedWorlds> to see the older changelogs for older PromisedWorlds versions
+Older Promised Worlds Changelogs can be found here <https://github.com/PromisedWorlds/PromisedWorlds> 
+
+## V2.0.3
+NEW FEATURES / IMPROVEMENTS:
+- Upgraded the install checking plugin to help with more installation errors
+- Plugin now checks for all Promised Worlds and Kopernicus dependencies
+- Made the message for unsupported EVE version more clear to differentiate between EVE Redux and True Volumetric Clouds
+- Some improvements to Simplified Chinese translation
+
+BUGFIXES:
+- Added a missing localization key for Gurdamma's Ashen Midlands
+- Updated Axod's description to make more sense
+
+LICENSE UPDATE:
+- The Promised Worlds settings / install checking plugin is now free software! It is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See the PluginLicense file for details.
+
+## V2.0.2
+BUGFIXES:
+- Fix Umod's terrain having gaps in it
+- Fix a typo in the skybox config file so the skybox actually works
+- Fix the Promised Worlds menu icon not loading correctly on Linux/Mac
+- Fix the edges of Puf's and Ovin's atmospheres displaying in front of the terrain
+
+## V2.0.1
+
+BUGFIXES:
+- The skybox setting now works correctly with KSP DiRT. If using TextureReplacer, the skybox cannot be disabled.
+
+## V2.0.0
+This update has taken a long time and a lot of work. Thanks to some discoveries about KSP 2, major changes have been made across the entire mod. 
+Due to the wide-reaching impact of this update, we recommend you start a new save, as prior saves will almost certainly be broken.
+We appreciate the patience and support of the community and hope you enjoy what we've been preparing!
+
+REVAMPS BASED ON NEW KSP 2 DISCOVERIES:
+- Debdeb is now larger - we re-estimated its size.
+- The protoplanetary disk has once again been changed to a more realisting thinner and darker appearance that aligns with KSP 2 footage.
+- Dorau is now a gas giant (what we thought was Axod).
+- Axod has been revamped to be a dwarf planet, with a brand-new Umod as its moon.
+- Moved the Glumo system to Tuun as intended.
+- Tilted Glumo for volumetric clouds users.
+- Revamped Gup
+- Revamped Noj
+- Revamped Merbel to feature a new equatorial ocean.
+- Revamped Charr
+- Revamped Ovin
+- Adjusted Gurdamma
+- Revamped Lapat to be lifeless, as in KSP 2.
+- Revamped Bis
+- Added secret features that can be visited on Charr and Bis.
+The following bodies and features were removed, as we have confirmed they were not present in KSP 2:
+- Removed Diros
+- Removed Jut
+- Removed Kleid
+- Removed Mesma
+- Removed Omasa
+- Removed Rosh
+- Removed Shana
+- Removed Puf's clouds
+- Removed Merbel's clouds
+
+NEW FEATURES / IMPROVEMENTS:
+
+- Vastly improved visuals! You'll see custom scatter and ground improvements on all bodies with Parallax Continued installed.
+- Stock Visuals are improved, and now replicate Scatterer atmospheres.
+- Custom sunlares now added that reflect KSP 2 flares. Scatterer flares are no longer supported.
+- Volumetrics V5 improvements all round. Cryovolcanoes have been added to Bis, as well as a minor correction to Gurdamma's Volcanic Winters.
+- Added support for Volumetrics V3/V4 (V3 is now available without payment on Blackrack's Patreon).
+- Added a skybox inspired by one seen in many of the KSP2 Feature Videos. You'll need: "Sigma Replacements: Skyboxes" to have this feature.
+- Added PromisedWorlds.dll. The PW icon now appears in KSP's main menu, allowing you to change settings via graphical interface. It also provides installation checking and custom logging.
+- PlanetShine and Distant Object Enhancement are now fully supported, including planetary flares.
+- New resource configurations for SpaceDust, allowing extraction of resources to support colonies and exploration.
+- Updates to Kerbalism configs.
+- Adjusted TiltEm, Rational Resources, and Kerbalism configs for Debdeb and Tuun.
+- Science Definitions have been updated for all bodies. Those for Tuun are not yet complete; more will be added in coming updates.
+- New descriptions have been written for all bodies based on information from KSP 2.
+- New loading screens reflect the planets' new appearances.
+- New custom flags to show off your space program's interstellar ambitions.
+- Removed the Random Main Menu Body feature - it did not work well and slowed down the game loading.
+
+TECHNICAL IMPROVEMENTS:
+
+- Converted some .png / .jpg textures to DDS for faster loading performance
+- Adjusted some volumetric cloud options to improve performance
+- Updated license to reflect the inclusion of cloud particle textures from EVE Redux.
+- Removed cloud textures accidentally included from Kcalbeloh and replaced with our own.
+
+BUGFIXES:
+
+- Fix incorrect links in version files.
+- Fix distance scale settings parameter not working.
+- Fix starsize settings parameter not working.
+- Update MM names in Debdeb's Kerbalism radiation configs to the current ones used by PW.
+- Scaled Space no longer flattens bodies.
+
+TRANSLATIONS:
+
+- Added full translation for Simplified Chinese
 
 ## v1.2.1
 BUGFIXES:
