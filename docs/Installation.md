@@ -2,7 +2,7 @@
 
 # Installation
 
-This is a complete installation guide on how to install Promised Worlds for Kerbal Space Program.
+This is a complete installation guide on how to install the Promised Worlds mod for Kerbal Space Program.
 
 ## System Requirements
 
@@ -10,13 +10,13 @@ This is a complete installation guide on how to install Promised Worlds for Kerb
 |----------|----------|----------|
 | KSP Version | 1.12.x | 1.12.5 |
 | RAM | 16GB | 32GB |
-| GPU | 2GB VRAM | 4GB VRAM |
-| Storage | 5GB Free Space | 10GB Free Space |
+| GPU | 2GB VRAM | 8GB VRAM |
+| Storage | 5GB Free Space | 5GB Free Space (SSD) |
 | Platforms | Windows/Linux/MacOS* | Windows/Linux/MacOS* |
 
 ### Installation on Linux / MacOS
 Promised Worlds works on Linux and MacOS, however the ScaledDecorator particle effects (which form Debdeb's protoplanetary disk) do not currently work correctly with OpenGL. 
-For Linux, it is recommended to run the Windows version of the game through Proton.
+For Linux, it is recommended to run the Windows version of the game through Proton, which avoids this issue.
 We are working on improving compatibility, so we can hopefully support all platforms equally in the future.
 
 ## CKAN
@@ -25,16 +25,16 @@ We are working on improving compatibility, so we can hopefully support all platf
 - Select "Promised Worlds - Tuun" for the Tuun system. CKAN will install the required dependencies.
 
 ## SpaceDock 
-(SpaceDock is no longer supported as it has caused numerous download issues upon users and developers)
+(SpaceDock is no longer supported as it has caused numerous download issues for users and developers)
   
 ## Manual (GitHub)
 
-- Download the latest version from [releases](https://github.com/Constructalor/PromisedWorlds/releases). You will need the Core zip file, along with the zip file for any systems you want. You can install any of the systems you like - you don't have to take them all.
+- Download the latest version from [releases](https://github.com/PromisedWorlds/PromisedWorlds/releases). You will need the Core zip file, along with the zip file for any systems you want. You can install any of the systems you like - you don't have to take them all.
 - Extract the Core zip file, and put the contents of GameData in your GameData directory.
 - For each system you want:
     - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
 - Download the mod's dependencies: 
- - [Kopernicus](https://github.com/kopernicus/kopernicus/releases) (Read the Kopernicus install Guide, as Kopernicus requires it's own dependencies)
+ - [Kopernicus](https://github.com/kopernicus/kopernicus/releases) (Read the Kopernicus install Guide, as Kopernicus requires its own dependencies)
  - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) (Fixes most issues with interstellar travel.)
  - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (Singularity is only required if you wish to use wormholes)
 
@@ -49,22 +49,22 @@ Other Dependencies are **ALREADY BUNDLED** with Promised Worlds, however, if the
 - Extract these zip files and put all folders in KSP's GameData directory.
   
 ## Options
-In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
+Settings can be changed either using the Promised Worlds toolbar icon (on the main menu), or by editing the PromisedWorldsSettings.cfg file (in GameData/PromisedWorlds).
 
-- Skybox (Requires [Sigma Skybox Replacements](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1)) (Release 2.0.0 and above)
-- Wormholes (Requires [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) for shaders)
-- DistanceFactor (How far from Kerbol the systems will be)
-- Rescale (Resize the systems, requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions/releases))
-- RealisticStarSize (Makes the stars more realistically sized relative to the planets)
-- RemoveStockScreens (Removes Stock Loading Screens and only uses Promised Worlds Media as loading screens)
-
-(Upon the release of 2.0.0, you can change these settings in-game with the icon that is in the top right corner of the main menu of KSP, labeled "PW", *requires restart upon changing settings*)
+| Option | Description |
+|:--|:--|
+| **Wormholes** | Enables wormholes *(requires Singularity for shaders)* |
+| **RealisticStarSize** | Makes stars more realistically sized relative to the planets. |
+| **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
+| **Skybox** | Requires DiRT or Sigma Replacements Skybox. Skybox will always be on with TextureReplacer - Set to True to enable the skybox. Set to False for the stock skybox or to use another skybox mod. |
+| **DistanceFactor** | Controls how far from Kerbol the systems will be |
+| **Rescale** | Resizes the systems *(requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions))* |
 
 ## Compatible Mods
 
 | Mod Category | Compatibility | Mod | Details |
 |----------|----------|----------|----------|
-| Quality Of Life |✅| [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) | Adds Radiation Belts + More |
+| Gameplay |✅| [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) | Adds Radiation Belts + More |
 ||✅| [Rational Resources](https://github.com/JadeOfMaar/RationalResources/releases) | Support Included |
 ||✅| [Space Dust](https://github.com/post-kerbin-mining-corporation/SpaceDust/releases) | Scoop/Gather Fuels |
 | Visuals (Recommended) |✅| [True Volumetric Clouds Release 3 or Higher](https://www.patreon.com/posts/true-volumetric-139879553) | Adds Clouds, Aurora, Atmosphere Scatters |
@@ -93,23 +93,24 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 
 ## Common fixes (Q/A)
 
-Q: Clouds are not appearing on any Promised Worlds Celestial Body, what do I do?
+Q: Clouds are not appearing on any Promised Worlds celestial body, what do I do?
 
-A: Check to see if you have EVE Redux. Currently, Promised Worlds does not support EVE Redux/Free EVE, and only supports Volumetric EVE, which is a paid mod, and can be found here: [Volumetric EVE](https://www.patreon.com/posts/true-volumetric-139879553)
+A: Check to see if you have EVE Redux. Currently, Promised Worlds does not support EVE Redux/Free EVE, and only supports Blackrack's True Volumetric Clouds, Release 3 or higher. Release 3 is available at no cost. All releases can be found on [Blackrack's Patreon page](https://www.patreon.com/blackrack).
 
 Q: Parallax is giving me errors when I start the game, what do I do?
 
-A: This is due to an incorrect install, or missing dependencies for either Promised Worlds, or Parallax Continued. Check the install guide at the top of this page, and if the issue still persists, [report an issue](https://github.com/PromisedWorlds/PromisedWorlds/issues) on the Repository.
+A: This is due to an incorrect install or missing dependencies for either Promised Worlds or Parallax Continued. Check the install guide at the top of this page, and if the issue still persists, [report an issue](https://github.com/PromisedWorlds/PromisedWorlds/issues) on the repository or ask in the help channel on our Discord.
 
 Q: None of the Promised Worlds bodies load when I go to map view, what is causing this?
 
-A: This is due to missing dependencies for Kopernicus, check if you have all the dependencies, listed on the [Kopernicus](https://github.com/Kopernicus/Kopernicus) page in the "README" section.
+A: This is due to missing dependencies for Kopernicus. Check if you have all the dependencies, listed on the [Kopernicus](https://github.com/Kopernicus/Kopernicus) page in the "README" section.
 
 Q: Does Promised Worlds have lower graphics settings?
 
-A: Promised Worlds Supports Graphics Mods to make use of better visuals. Those mods themselves include settings to reduce lag and improve performance for lower-end devices. At the top of this page, we have a recommended specs sheet to get the maximum performance out of Promised Worlds.
+A: Promised Worlds supports graphics mods to provide better visuals. Those mods themselves include settings to reduce lag and improve performance for lower-end devices. At the top of this page, we have a recommended specs sheet to get the maximum performance out of Promised Worlds.
+For True Volumetric Clouds, the temporal upscaling setting 
 
 ## Known issues with Promised Worlds:
 
 - With Visual Enhancement Mods installed (Parallax/EVE), Celestial Body eclipses may become out of alignment with their parent object, or may cast a shadow on themselves in pure sunlight.
-- With Emissive mods installed, Donk will temporarily become red when Exiting it's Sphere of Influence.
+- Donk sometimes temporarily becomes red when exiting its Sphere of Influence.
