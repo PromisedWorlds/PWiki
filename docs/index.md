@@ -6,6 +6,10 @@
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # Promised Worlds
 
+> [!CAUTION]
+> # Important (Please read)
+> This wiki is currently not maintained at all. Therefore most of this information **could** be outdated.
+
 ## Welcome to the Promised Worlds Wiki
 
 **Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2 implemented fully into KSP 1. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
