@@ -6,9 +6,8 @@
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # Promised Worlds
 
-> [!CAUTION]
-> # Important (Please read)
-> This wiki is currently not maintained at all. Therefore most of this information **could** be outdated.
+!!! info "IMPORTANT"
+  This wiki is currently not maintained at all. Therefore most of this information **could** be outdated.
 
 ## Welcome to the Promised Worlds Wiki
 
